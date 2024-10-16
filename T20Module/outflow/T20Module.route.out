@@ -1,0 +1,147 @@
+           
+           Efinix FPGA Placement and Routing.
+           Version: 2024.1.163.1.8 
+           Compiled: Jun 25 2024.
+           
+           Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+
+           
+           The Tool Is Based on VPR of University of Toronto,
+           a free open source code under MIT license.
+           
+           
+INFO     : Running Placement and Routing for Family "Trion", Device "T20Q100F3" ...
+           
+           ***** Beginning stage routing graph generation ... *****
+INFO     : Read ipin pattern from C:/Efinity/2024.1/arch/./ipin_oph.xml
+INFO     : Finished parsing ipin pattern file 'C:/Efinity/2024.1/arch/./ipin_oph.xdb'.
+INFO     : Finished parsing switch_block file 'C:/Efinity/2024.1/arch/.\sb_connectivity_subset.xdb'.
+INFO     : BuildGraph process took 4.76223 seconds.
+INFO     : 	BuildGraph process took 4.67188 seconds (approximately) in total CPU time.
+INFO     : BuildGraph process virtual memory usage: begin = 41.796 MB, end = 412.172 MB, delta = 370.376 MB
+INFO     : 	BuildGraph process peak virtual memory usage = 421.344 MB
+INFO     : BuildGraph process resident set memory usage: begin = 50.568 MB, end = 412.056 MB, delta = 361.488 MB
+INFO     : 	BuildGraph process peak resident set memory usage = 420.644 MB
+INFO     : check rr_graph process took 0.136774 seconds.
+INFO     : 	check rr_graph process took 0.140625 seconds (approximately) in total CPU time.
+INFO     : check rr_graph process virtual memory usage: begin = 450.144 MB, end = 450.144 MB, delta = 0 MB
+INFO     : 	check rr_graph process peak virtual memory usage = 460.54 MB
+INFO     : check rr_graph process resident set memory usage: begin = 449.992 MB, end = 450.044 MB, delta = 0.052 MB
+INFO     : 	check rr_graph process peak resident set memory usage = 460.388 MB
+INFO     : Generated 1175577 RR nodes and 4446419 RR edges
+INFO     : This design has 0 global control net(s). See C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module.route.rpt for details.
+INFO     : Routing graph took 5.02771 seconds.
+INFO     : 	Routing graph took 4.89062 seconds (approximately) in total CPU time.
+INFO     : Routing graph virtual memory usage: begin = 40.008 MB, end = 408.904 MB, delta = 368.896 MB
+INFO     : 	Routing graph peak virtual memory usage = 460.54 MB
+INFO     : Routing graph resident set memory usage: begin = 49.7 MB, end = 409.068 MB, delta = 359.368 MB
+INFO     : 	Routing graph peak resident set memory usage = 460.388 MB
+           ***** Ending stage routing graph generation *****
+           
+           ***** Beginning stage routing ... *****
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'PLL0_CLKOUT0' with 1 sources
+INFO     : Creating clock 'BaudClk' with 1 sources
+INFO     : Creating clock 'OneKHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'TwelveMHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'ledclkout~FF|Q' with 1 sources
+INFO     :  ---------      -------     --------------      -------------
+INFO     :  Iteration      Overuse     Crit Path (ns)      Calc Time (s)
+INFO     :  ---------      -------     --------------      -------------
+INFO     :          1          586               4.94             0.0739
+INFO     :          2          300               4.94             0.0585
+INFO     :          3          195               4.94              0.047
+INFO     :          4          102               4.94             0.0528
+INFO     :          5           59              4.946             0.0444
+INFO     :          6           26               4.94             0.0487
+INFO     :          7           20              4.946             0.0501
+INFO     :          8            9              5.127             0.0417
+INFO     :          9            5              5.023             0.0428
+INFO     :         10            2              5.229              0.052
+INFO     :         11            1              5.229             0.0551
+INFO     :         12            0              5.229             0.0405
+           
+INFO     : Successfully routed netlist after 12 routing iterations and 665246 heapops
+INFO     : Completed net delay value cross check successfully.
+           ***** Beginning stage routing check ... *****
+           ***** Ending stage routing check *****
+           
+INFO     : Serial number (magic cookie) for the routing is: 1168232776
+INFO     : Netlist fully routed.
+INFO     : Successfully created FPGA route file 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.route'
+INFO     : Routing took 0.909006 seconds.
+INFO     : 	Routing took 0.796875 seconds (approximately) in total CPU time.
+INFO     : Routing virtual memory usage: begin = 408.904 MB, end = 407.84 MB, delta = -1.064 MB
+INFO     : 	Routing peak virtual memory usage = 501.18 MB
+INFO     : Routing resident set memory usage: begin = 409.068 MB, end = 409.952 MB, delta = 0.884 MB
+INFO     : 	Routing peak resident set memory usage = 479.112 MB
+           ***** Ending stage routing *****
+           
+           ***** Beginning stage final timing analysis ... *****
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'PLL0_CLKOUT0' with 1 sources
+INFO     : Creating clock 'BaudClk' with 1 sources
+INFO     : Creating clock 'OneKHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'TwelveMHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'ledclkout~FF|Q' with 1 sources
+Maximum possible analyzed clocks frequency
+   Clock Name     Period (ns)  Frequency (MHz)     Edge
+ledclkout~FF|Q       4.551        219.732         (R-R)
+TwelveMHzClk~FF|Q    4.426        225.938         (R-R)
+OneKHzClk~FF|Q       1.770        564.972*        (R-R)
+PLL0_CLKOUT0         5.349        186.951         (R-R)
+
+* CAUTION: Frequency is limited to 400.000 MHz by global clock network
+
+Geomean max period: 3.716
+
+Setup (Max) Clock Relationship
+  Launch Clock      Capture Clock   Constraint (ns)     Slack (ns)          Edge
+ledclkout~FF|Q    ledclkout~FF|Q         1.000            -3.551           (R-R)
+ledclkout~FF|Q    TwelveMHzClk~FF|Q      1.000            -4.413           (R-R)
+TwelveMHzClk~FF|Q TwelveMHzClk~FF|Q      1.000            -3.426           (R-R)
+OneKHzClk~FF|Q    OneKHzClk~FF|Q         1.000            -0.770           (R-R)
+PLL0_CLKOUT0      PLL0_CLKOUT0           1.000            -4.349           (R-R)
+
+Hold (Min) Clock Relationship
+  Launch Clock      Capture Clock   Constraint (ns)     Slack (ns)          Edge
+ledclkout~FF|Q    ledclkout~FF|Q         0.000            0.307            (R-R)
+ledclkout~FF|Q    TwelveMHzClk~FF|Q      0.000            1.989            (R-R)
+TwelveMHzClk~FF|Q TwelveMHzClk~FF|Q      0.000            0.307            (R-R)
+OneKHzClk~FF|Q    OneKHzClk~FF|Q         0.000            0.361            (R-R)
+PLL0_CLKOUT0      PLL0_CLKOUT0           0.000            0.309            (R-R)
+
+WARNING  : Clock domain between ledclkout~FF|Q (rising) and ledclkout~FF|Q (rising) may not meet (slack: -3.551 ns) the setup (max) timing requirement
+WARNING  : Clock domain between ledclkout~FF|Q (rising) and TwelveMHzClk~FF|Q (rising) may not meet (slack: -4.413 ns) the setup (max) timing requirement
+WARNING  : Clock domain between TwelveMHzClk~FF|Q (rising) and TwelveMHzClk~FF|Q (rising) may not meet (slack: -3.426 ns) the setup (max) timing requirement
+WARNING  : Clock domain between OneKHzClk~FF|Q (rising) and OneKHzClk~FF|Q (rising) may not meet (slack: -0.770 ns) the setup (max) timing requirement
+WARNING  : Clock domain between PLL0_CLKOUT0 (rising) and PLL0_CLKOUT0 (rising) may not meet (slack: -4.349 ns) the setup (max) timing requirement
+INFO     : Write Timing Report to "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module.timing.rpt" ...
+INFO     : final timing analysis took 0.257055 seconds.
+INFO     : 	final timing analysis took 0.1875 seconds (approximately) in total CPU time.
+INFO     : final timing analysis virtual memory usage: begin = 407.864 MB, end = 406.752 MB, delta = -1.112 MB
+INFO     : 	final timing analysis peak virtual memory usage = 501.18 MB
+INFO     : final timing analysis resident set memory usage: begin = 410.032 MB, end = 409.628 MB, delta = -0.404 MB
+INFO     : 	final timing analysis peak resident set memory usage = 479.112 MB
+           ***** Ending stage final timing analysis *****
+           
+           ***** Beginning stage bitstream generation ... *****
+INFO     : Reading core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Successfully read core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Finished writing bitstream file C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.lbf.
+INFO     : Bitstream generation took 0.599827 seconds.
+INFO     : 	Bitstream generation took 0.546875 seconds (approximately) in total CPU time.
+INFO     : Bitstream generation virtual memory usage: begin = 406.752 MB, end = 438.46 MB, delta = 31.708 MB
+INFO     : 	Bitstream generation peak virtual memory usage = 501.18 MB
+INFO     : Bitstream generation resident set memory usage: begin = 409.656 MB, end = 440.88 MB, delta = 31.224 MB
+INFO     : 	Bitstream generation peak resident set memory usage = 479.112 MB
+           ***** Ending stage bitstream generation *****
+           
+INFO     : The entire flow of EFX_PNR took 21.264 seconds.
+INFO     : 	The entire flow of EFX_PNR took 16.1406 seconds (approximately) in total CPU time.
+INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 4.524 MB, end = 64.604 MB, delta = 60.08 MB
+INFO     : 	The entire flow of EFX_PNR peak virtual memory usage = 501.18 MB
+INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 13.22 MB, end = 73.168 MB, delta = 59.948 MB
+INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 479.112 MB

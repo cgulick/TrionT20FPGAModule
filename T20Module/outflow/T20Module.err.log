@@ -1,0 +1,991 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 09, 2024 09:18:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 07:57:37
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'input' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:11)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'input' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:11)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 07:59:41
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'asssign' is an unknown type (VERI-1556) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:56)
+[EFX-0010 VERI-ERROR] module 'T20ModuleTopLevel' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:83)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:00:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:21:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:23:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:27:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:36:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:47:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:55:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 08:58:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 09:05:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 09:14:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 09:54:02
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] extra comma in port association list is not allowed (VERI-2523) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:76)
+[EFX-0010 VERI-ERROR] module 'T20ModuleTopLevel' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:98)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 09:54:35
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ')' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:5)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 09:54:53
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'test_color' is not permitted (VERI-1195) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:14)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:71)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:75)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:82)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:86)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:90)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:02:14
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:71)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:75)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:82)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'leds' is not permitted (VERI-1100) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:86)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:90)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:05:04
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'leds' on this module (VERI-1010) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:76)
+[EFX-0010 VERI-ERROR] mixed blocking and non-blocking assignments on 'led_num' is not supported (VERI-1070) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:51)
+[EFX-0021 ERROR] Elaboration of module '' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:05:36
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'leds' on this module (VERI-1010) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:76)
+[EFX-0021 ERROR] Elaboration of module 'Sk6812Led' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:08:05
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:78)
+[EFX-0010 VERI-ERROR] module 'T20ModuleTopLevel' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:98)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:09:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:12:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:15:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:18:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:26:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:30:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:32:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:36:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:40:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:43:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:51:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 10:55:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:02:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:05:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:11:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:16:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:21:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:25:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:28:38
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'assign' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:56)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'assign' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:56)
+[EFX-0010 VERI-ERROR] module 'T20ModuleTopLevel' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:98)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:29:05
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:33:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:38:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:40:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:46:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:52:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:59:27
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ')' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:6)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 11:59:54
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 12:05:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 12:19:35
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'x0f0f0f' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:23)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:106)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 12:20:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 12:24:14
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:29)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:46)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:51)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:54)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:59)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:64)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:67)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:72)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:77)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:80)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:88)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:92)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:99)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:103)
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:106)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:106)
+[EFX-0010 VERI-ERROR] 'npxc' is not a constant (VERI-1188) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:44)
+[EFX-0010 VERI-ERROR] 'state' is not a constant (VERI-1188) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:49)
+[EFX-0010 VERI-ERROR] 'bits' is not a constant (VERI-1188) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:52)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 12:25:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:00:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:30:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:35:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:37:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:43:44
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'test_color' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:55)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:142)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:44:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 13:51:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:05:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:100)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:100)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:154)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:157)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:161)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:161)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:162)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:164)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:164)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:165)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:166)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:170)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:174)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:174)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:175)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:07:16
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:101)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:101)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:154)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:157)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:161)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:161)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:162)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:164)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:164)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:165)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:166)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:170)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:174)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:174)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:175)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:10:09
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:93)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:93)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:145)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:145)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:146)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:148)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:148)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:149)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:153)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:154)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:156)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:157)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:158)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:162)
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:166)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:166)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:167)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:13:07
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:93)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:93)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:212)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:13:45
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'resetn' on this module (VERI-1010) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:76)
+[EFX-0021 ERROR] Elaboration of module 'Sk6812Led' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:14:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:19:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:23:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:27:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:29:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:33:51
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] part-select direction is opposite from prefix index direction (VERI-1165) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:35)
+[EFX-0021 ERROR] Elaboration of module '' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 10, 2024 18:34:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 23, 2024 08:10:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 23, 2024 15:55:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 23, 2024 16:01:04
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] extra comma in port association list is not allowed (VERI-2523) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:95)
+[EFX-0010 VERI-ERROR] module 'T20ModuleTopLevel' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:101)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 23, 2024 16:01:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 23, 2024 16:20:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:12:23
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'always' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:141)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'always' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:141)
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:217)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:217)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:13:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] part-select direction is opposite from prefix index direction (VERI-1165) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:37)
+[EFX-0021 ERROR] Elaboration of module '' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:19:00
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'i' is not declared (VERI-1128) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:38)
+[EFX-0010 VERI-ERROR] 'i' is not declared (VERI-1128) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:39)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:220)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:20:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:24:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:28:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:32:16
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:43:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 13:52:58
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:03:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:10:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:14:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:19:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:24:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:27:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:35:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:42:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:52:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 14:55:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 15:03:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 15:05:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 15:24:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 15:57:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 16:02:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 16:06:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 16:09:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 16:57:53
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:114)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:114)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:264)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 16:58:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:05:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:20:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:27:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:34:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:38:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:42:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:45:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:51:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 17:56:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:08:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:11:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:14:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:18:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:26:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:30:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 24, 2024 18:37:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:16:05
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:130)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:130)
+[EFX-0010 VERI-ERROR] module 'Sk6812Led' is ignored due to previous errors (VERI-1072) (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:271)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:16:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:25:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:29:58
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:37:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:39:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:46:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 11:50:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:03:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:06:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:10:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:14:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:21:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:27:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:32:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:36:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:41:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:49:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 12:52:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 25, 2024 15:29:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 25, 2024 10:42:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 25, 2024 10:47:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 25, 2024 12:36:40
+///////////////////////////////////
+

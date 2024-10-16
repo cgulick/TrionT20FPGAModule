@@ -1,0 +1,245 @@
+           
+           Efinix FPGA Placement and Routing.
+           Version: 2024.1.163.1.8 
+           Compiled: Jun 25 2024.
+           
+           Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+
+           
+           The Tool Is Based on VPR of University of Toronto,
+           a free open source code under MIT license.
+           
+           
+INFO     : Running Placement and Routing for Family "Trion", Device "T20Q100F3" ...
+           
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(10): Input/inout port GpioR133i is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(11): Input/inout port CDB0TXDi is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(12): Input/inout port CDB1RXDo is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(13): Input/inout port CDBUS2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(14): Input/inout port CDBUS3 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(16): Input/inout port DDBUS0 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(18): Input/inout port DDBUS2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(19): Input/inout port DDBUS3 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(21): Input/inout port SYSCLK1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(23): Input/inout port Switch1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(24): Input/inout port Switch2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(27): Input/inout port PllLocked is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(29): Input/inout port PLL0_CLKOUT1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(30): Input/inout port PLL0_CLKOUT2 is unconnected and will be removed. [VDB-8003]
+INFO     : Found 14 warnings in the post-synthesis netlist.
+INFO     : VDB Netlist Checker took 0.0166429 seconds.
+INFO     : 	VDB Netlist Checker took 0.015625 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 13.592 MB, end = 13.592 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak virtual memory usage = 52.78 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 25.272 MB, end = 25.556 MB, delta = 0.284 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 63.944 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Successfully read core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : logical_block #0(GpioR133i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #1(CDB0TXDi) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #2(CDB1RXDo) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #3(CDBUS2) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #4(CDBUS3) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #5(DDBUS0) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #7(DDBUS2) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #8(DDBUS3) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #9(SYSCLK1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #10(Switch1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #11(Switch2) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #12(PllLocked) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #14(PLL0_CLKOUT1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #15(PLL0_CLKOUT2) has no fanout.
+INFO     : Removing input.
+INFO     : Pass 0: Swept away 14 blocks with no fanout.
+INFO     : Pass 1: Swept away 0 nets with no fanout.
+INFO     : Pass 1: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 14 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Sweept away 14 nodes
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.vdb".
+INFO     : Netlist pre-processing took 0.0426183 seconds.
+INFO     : 	Netlist pre-processing took 0.015625 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 13.592 MB, end = 13.592 MB, delta = 0 MB
+INFO     : 	Netlist pre-processing peak virtual memory usage = 52.78 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 25.04 MB, end = 26.028 MB, delta = 0.988 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 63.944 MB
+           ***** Ending stage netlist pre-processing *****
+           
+           ***** Beginning stage pre-packing ... *****
+           ***** Ending stage pre-packing *****
+           
+           ***** Beginning stage packing ... *****
+INFO     : Generate proto netlist for file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.net_proto" took 0.001 seconds
+INFO     : Creating IO constraints file 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.io_place'
+INFO     : Packing took 0.004473 seconds.
+INFO     : 	Packing took 0 seconds (approximately) in total CPU time.
+INFO     : Packing virtual memory usage: begin = 18.964 MB, end = 18.964 MB, delta = 0 MB
+INFO     : 	Packing peak virtual memory usage = 52.78 MB
+INFO     : Packing resident set memory usage: begin = 31.96 MB, end = 32.212 MB, delta = 0.252 MB
+INFO     : 	Packing peak resident set memory usage = 63.944 MB
+           ***** Ending stage packing *****
+           
+           ***** Beginning stage packed netlist loading ... *****
+INFO     : Read proto netlist file C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.net_proto
+INFO     : Read proto netlist for file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.net_proto" took 0 seconds
+INFO     : Setup net and block data structure took 0.012 seconds
+INFO     : Packed netlist loading took 0.025072 seconds.
+INFO     : 	Packed netlist loading took 0.015625 seconds (approximately) in total CPU time.
+INFO     : Packed netlist loading virtual memory usage: begin = 18.964 MB, end = 21.488 MB, delta = 2.524 MB
+INFO     : 	Packed netlist loading peak virtual memory usage = 60.68 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 32.224 MB, end = 34.896 MB, delta = 2.672 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 73.948 MB
+           ***** Ending stage packed netlist loading *****
+           
+           ***** Beginning stage pre-placement ... *****
+           
+           ***** Ending stage pre-placement *****
+           
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'PLL0_CLKOUT0' with 1 sources
+INFO     : Creating clock 'BaudClk' with 1 sources
+INFO     : Creating clock 'OneKHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'TwelveMHzClk~FF|Q' with 1 sources
+INFO     : Creating clock 'ledclkout~FF|Q' with 1 sources
+           ***** Beginning stage initial placement ... *****
+INFO     : Reading core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Successfully read core interface constraints file "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.interface.csv"
+INFO     : Writing IO placement constraints to "C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module.interface.io"
+INFO     : Reading placement constraints from 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module.interface.io'.
+INFO     : Reading placement constraints from 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_pnr\T20Module.io_place'.
+           ***** Ending stage initial placement *****
+           
+           ***** Beginning stage placement ... *****
+INFO     : Create C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module_after_qp.qdelay
+INFO     : QPLACER STATIC DB USAGE DISABLED
+INFO     : Starting Global Placer with 8 threads ...
+            ----------     -------  --------------     -------
+             Iteration       WHPWL Worst Slack (ps) Convergence
+            ----------     -------  --------------     -------
+INFO     :           1       22177           -2481        23.0%
+INFO     :           2       17036           -2481        26.1%
+INFO     :           3       19655           -2882        26.1%
+INFO     :           4       19462           -2481        26.1%
+INFO     :           5       10112           -2593        26.1%
+INFO     :           6        5380           -2697        27.9%
+INFO     :           7        4612           -2697        29.0%
+INFO     :           8        3735           -2246        34.4%
+INFO     :           9        3750           -3011        37.8%
+INFO     :          10        2907           -4032        48.4%
+INFO     :          11        2853           -4123        54.0%
+INFO     :          12        2546           -3476        56.7%
+INFO     :          13        2389           -3831        61.2%
+INFO     :          14        2158           -4342        64.4%
+INFO     :          15        2324           -4303        64.4%
+INFO     :          16        2293           -4303        65.0%
+INFO     :          17        2212           -3927        66.6%
+INFO     :          18        2229           -4480        68.1%
+INFO     :          19        2280           -4483        68.6%
+INFO     :          20        2293           -4168        69.9%
+INFO     :          21        2383           -4580        69.9%
+INFO     :          22        2325           -4425        71.3%
+INFO     :          23        2344           -4333        72.7%
+INFO     :          24        2390           -4274        73.2%
+INFO     :          25        2391           -3782        73.2%
+INFO     :          26        2298           -4275        75.5%
+INFO     :          27        2307           -4274        75.5%
+INFO     :          28        2137           -4714        77.6%
+INFO     :          29        2235           -4361        78.6%
+INFO     :          30        2125           -4470        80.1%
+INFO     :          31        2202           -4471        80.1%
+INFO     :          32        2125           -4454        81.2%
+INFO     :          33        2302           -4469        81.2%
+INFO     :          34        2260           -4715        81.2%
+INFO     :          35        2133           -4856        83.8%
+INFO     :          36        2232           -4474        83.8%
+INFO     :          37        2198           -4847        83.8%
+INFO     :          38        2114           -4873        84.1%
+INFO     :          39        2090           -4873        85.9%
+INFO     :          40        2019           -4404        87.3%
+INFO     :          41        1983           -4404        87.3%
+INFO     :          42        1967           -4421        88.4%
+INFO     :          43        2076           -4455        88.4%
+INFO     :          44        2134           -4441        88.4%
+INFO     :          45        2018           -4817        88.9%
+INFO     :          46        2073           -4468        88.9%
+INFO     :          47        2064           -4462        88.9%
+INFO     :          48        2039           -4468        90.3%
+INFO     :          49        2052           -4468        90.3%
+INFO     :          50        2150           -4468        90.5%
+INFO     :          51        2056           -4468        90.5%
+INFO     :          52        2103           -4854        92.4%
+INFO     :          53        2109           -4841        92.4%
+INFO     :          54        2053           -4854        92.7%
+INFO     : Starting Annealer
+            ----------     -------  --------------     -------
+             Iteration       WHPWL  Delay Max (ps)     R Limit
+            ----------     -------  --------------     -------
+INFO     :           0        1967            5857        30.0
+INFO     :           1        1931            5219        28.8
+INFO     :           2        1942            4811        27.2
+INFO     :           3        1925            4773        25.5
+INFO     :           4        1837            4642        23.8
+INFO     :           5        1885            4369        22.2
+INFO     :           6        1873            4392        20.8
+INFO     :           7        1829            4382        19.4
+INFO     :           8        1782            4356        18.1
+INFO     :           9        1842            4228        16.8
+INFO     :          10        1876            4215        15.6
+INFO     :          11        1822            4475        14.6
+INFO     :          12        1832            4402        13.6
+INFO     :          13        1856            4317        12.6
+INFO     :          14        1866            4215        11.8
+INFO     :          15        1855            4216        11.0
+INFO     :          16        1835            4215        10.3
+INFO     :          17        1785            4369         9.6
+INFO     :          18        1751            4398         8.9
+INFO     :          19        1772            4398         8.2
+INFO     :          20        1736            4215         7.6
+INFO     :          21        1733            4276         7.1
+INFO     :          22        1788            4226         6.6
+INFO     :          23        1794            4215         6.1
+INFO     :          24        1810            4215         5.7
+INFO     :          25        1813            4215         5.3
+INFO     :          26        1825            4522         4.9
+INFO     :          27        1798            5402         4.5
+INFO     :          28        1775            4909         4.2
+INFO     :          29        1827            4215         3.9
+INFO     :          30        1822            5039         3.6
+INFO     :          31        1759            4774         3.3
+INFO     :          32        1781            5025         3.0
+INFO     : Generate C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow\T20Module_after_qp.qdelay
+INFO     : Placement successful: 298 cells are placed
+INFO     : Peak congestion smeared over 1/4 of the chip is 0.0654222 at 0,0
+INFO     : Congestion-weighted HPWL per net: 2.08178
+INFO     : Reading placement constraints from 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.qplace'.
+INFO     : Finished Realigning Types (72 blocks needed type change)
+INFO     : Completed placement consistency check successfully.
+INFO     : Successfully created FPGA place file 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.place'
+INFO     : Placement took 3.64842 seconds.
+INFO     : 	Placement took 2.07812 seconds (approximately) in total CPU time.
+INFO     : Placement virtual memory usage: begin = 26.308 MB, end = 40.008 MB, delta = 13.7 MB
+INFO     : 	Placement peak virtual memory usage = 149.064 MB
+INFO     : Placement resident set memory usage: begin = 40.296 MB, end = 49.692 MB, delta = 9.396 MB
+INFO     : 	Placement peak resident set memory usage = 156.172 MB
+           ***** Ending stage placement *****
+           

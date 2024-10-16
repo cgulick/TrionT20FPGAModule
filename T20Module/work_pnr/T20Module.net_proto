@@ -1,0 +1,1121 @@
+
+@
+OneKHzClk~FFeftlogic"$
+OneKHzClk~FFeft(0)/ff(0)"EFX_FF
+ˆ
+i14/counter_value1[1]~FFeft
+arithmetic"0
+i14/counter_value1[1]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i1eft(0)/adder(1)"EFX_ADD
+F
+TwelveMHzClk~FFeftlogic"'
+TwelveMHzClk~FFeft(0)/ff(0)"EFX_FF
+X
+i14/counter_value1[0]~FFeftlogic"0
+i14/counter_value1[0]~FFeft(0)/ff(0)"EFX_FF
+ˆ
+i14/counter_value1[2]~FFeft
+arithmetic"0
+i14/counter_value1[2]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i2eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[3]~FFeft
+arithmetic"0
+i14/counter_value1[3]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i3eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[4]~FFeft
+arithmetic"0
+i14/counter_value1[4]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i4eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[5]~FFeft
+arithmetic"0
+i14/counter_value1[5]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i5eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[6]~FFeft
+arithmetic"0
+i14/counter_value1[6]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i6eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[7]~FFeft
+arithmetic"0
+i14/counter_value1[7]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i7eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[8]~FFeft
+arithmetic"0
+i14/counter_value1[8]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i8eft(0)/adder(1)"EFX_ADD
+ˆ
+i14/counter_value1[9]~FFeft
+arithmetic"0
+i14/counter_value1[9]~FFeft(0)/ff(1)"EFX_FF")
+i14/add_45/i9eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[10]~FFeft
+arithmetic"1
+i14/counter_value1[10]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i10eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[11]~FFeft
+arithmetic"1
+i14/counter_value1[11]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i11eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[12]~FFeft
+arithmetic"1
+i14/counter_value1[12]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i12eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[13]~FFeft
+arithmetic"1
+i14/counter_value1[13]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i13eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[14]~FFeft
+arithmetic"1
+i14/counter_value1[14]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i14eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[15]~FFeft
+arithmetic"1
+i14/counter_value1[15]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i15eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[16]~FFeft
+arithmetic"1
+i14/counter_value1[16]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i16eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[17]~FFeft
+arithmetic"1
+i14/counter_value1[17]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i17eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[18]~FFeft
+arithmetic"1
+i14/counter_value1[18]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i18eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[19]~FFeft
+arithmetic"1
+i14/counter_value1[19]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i19eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[20]~FFeft
+arithmetic"1
+i14/counter_value1[20]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i20eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[21]~FFeft
+arithmetic"1
+i14/counter_value1[21]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i21eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[22]~FFeft
+arithmetic"1
+i14/counter_value1[22]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i22eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[23]~FFeft
+arithmetic"1
+i14/counter_value1[23]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i23eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[24]~FFeft
+arithmetic"1
+i14/counter_value1[24]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i24eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[25]~FFeft
+arithmetic"1
+i14/counter_value1[25]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i25eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[26]~FFeft
+arithmetic"1
+i14/counter_value1[26]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i26eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[27]~FFeft
+arithmetic"1
+i14/counter_value1[27]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i27eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[28]~FFeft
+arithmetic"1
+i14/counter_value1[28]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i28eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[29]~FFeft
+arithmetic"1
+i14/counter_value1[29]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i29eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[30]~FFeft
+arithmetic"1
+i14/counter_value1[30]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i30eft(0)/adder(1)"EFX_ADD
+‹
+i14/counter_value1[31]~FFeft
+arithmetic"1
+i14/counter_value1[31]~FFeft(0)/ff(1)"EFX_FF"*
+i14/add_45/i31eft(0)/adder(1)"EFX_ADD
+R
+i15/LedArrayTxd[0]~FFeftlogic"-
+i15/LedArrayTxd[0]~FFeft(0)/ff(0)"EFX_FF
+q
+i15/green[1]~FFeftlogic"'
+i15/green[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1555eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[7]~FFeftlogic"%
+i15/red[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1568eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[6]~FFeftlogic"%
+i15/red[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1572eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[5]~FFeftlogic"%
+i15/red[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1575eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[4]~FFeftlogic"%
+i15/red[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1577eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[3]~FFeftlogic"%
+i15/red[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1579eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[2]~FFeftlogic"%
+i15/red[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1581eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[1]~FFeftlogic"%
+i15/red[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1583eft(0)/lut4(0)/lut(1)"names
+L
+i15/rgbstate[1]~FFeftlogic"*
+i15/rgbstate[1]~FFeft(0)/ff(0)"EFX_FF
+w
+i15/rgbstate[0]~FFeftlogic"*
+i15/rgbstate[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1584eft(0)/lut4(0)/lut(1)"names
+m
+i15/red[0]~FFeftlogic"%
+i15/red[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1585eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[0]~FFeftlogic"'
+i15/green[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1590eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[0]~FFeftlogic"&
+i15/blue[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1595eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[0]~FFeftlogic")
+i15/UpDnCnt[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1596eft(0)/lut4(0)/lut(1)"names
+N
+i15/Direction[0]~FFeftlogic"+
+i15/Direction[0]~FFeft(0)/ff(0)"EFX_FF
+w
+i15/RGBColor[0]~FFeftlogic"*
+i15/RGBColor[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1566eft(0)/lut4(0)/lut(1)"names
+D
+i15/npxc[0]~FFeftlogic"&
+i15/npxc[0]~FFeft(0)/ff(0)"EFX_FF
+q
+i15/state[2]~FFeftlogic"'
+i15/state[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1604eft(0)/lut4(0)/lut(1)"names
+q
+i15/state[1]~FFeftlogic"'
+i15/state[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1603eft(0)/lut4(0)/lut(1)"names
+q
+i15/state[0]~FFeftlogic"'
+i15/state[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1614eft(0)/lut4(0)/lut(1)"names
+o
+i15/bits[0]~FFeftlogic"&
+i15/bits[0]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1617eft(0)/lut4(0)/lut(1)"names
+J
+i15/led_num[0]~FFeftlogic")
+i15/led_num[0]~FFeft(0)/ff(0)"EFX_FF
+D
+i15/lpxc[0]~FFeftlogic"&
+i15/lpxc[0]~FFeft(0)/ff(0)"EFX_FF
+a
+R122~FFeftlogic"
+R122~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1642eft(0)/lut4(0)/lut(1)"names
+R
+i15/LedArrayTxd[1]~FFeftlogic"-
+i15/LedArrayTxd[1]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[2]~FFeftlogic"-
+i15/LedArrayTxd[2]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[3]~FFeftlogic"-
+i15/LedArrayTxd[3]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[4]~FFeftlogic"-
+i15/LedArrayTxd[4]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[5]~FFeftlogic"-
+i15/LedArrayTxd[5]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[6]~FFeftlogic"-
+i15/LedArrayTxd[6]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[7]~FFeftlogic"-
+i15/LedArrayTxd[7]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[8]~FFeftlogic"-
+i15/LedArrayTxd[8]~FFeft(0)/ff(0)"EFX_FF
+R
+i15/LedArrayTxd[9]~FFeftlogic"-
+i15/LedArrayTxd[9]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[10]~FFeftlogic".
+i15/LedArrayTxd[10]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[11]~FFeftlogic".
+i15/LedArrayTxd[11]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[12]~FFeftlogic".
+i15/LedArrayTxd[12]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[13]~FFeftlogic".
+i15/LedArrayTxd[13]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[14]~FFeftlogic".
+i15/LedArrayTxd[14]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[15]~FFeftlogic".
+i15/LedArrayTxd[15]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[16]~FFeftlogic".
+i15/LedArrayTxd[16]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[17]~FFeftlogic".
+i15/LedArrayTxd[17]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[18]~FFeftlogic".
+i15/LedArrayTxd[18]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[19]~FFeftlogic".
+i15/LedArrayTxd[19]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[20]~FFeftlogic".
+i15/LedArrayTxd[20]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[21]~FFeftlogic".
+i15/LedArrayTxd[21]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[22]~FFeftlogic".
+i15/LedArrayTxd[22]~FFeft(0)/ff(0)"EFX_FF
+T
+i15/LedArrayTxd[23]~FFeftlogic".
+i15/LedArrayTxd[23]~FFeft(0)/ff(0)"EFX_FF
+q
+i15/green[2]~FFeftlogic"'
+i15/green[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1646eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[3]~FFeftlogic"'
+i15/green[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1649eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[4]~FFeftlogic"'
+i15/green[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1654eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[5]~FFeftlogic"'
+i15/green[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1658eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[6]~FFeftlogic"'
+i15/green[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1663eft(0)/lut4(0)/lut(1)"names
+q
+i15/green[7]~FFeftlogic"'
+i15/green[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1666eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[1]~FFeftlogic"&
+i15/blue[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1672eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[2]~FFeftlogic"&
+i15/blue[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1677eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[3]~FFeftlogic"&
+i15/blue[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1684eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[4]~FFeftlogic"&
+i15/blue[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1689eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[5]~FFeftlogic"&
+i15/blue[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1694eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[6]~FFeftlogic"&
+i15/blue[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1697eft(0)/lut4(0)/lut(1)"names
+o
+i15/blue[7]~FFeftlogic"&
+i15/blue[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1701eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[1]~FFeftlogic")
+i15/UpDnCnt[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1704eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[2]~FFeftlogic")
+i15/UpDnCnt[2]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1706eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[3]~FFeftlogic")
+i15/UpDnCnt[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1709eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[4]~FFeftlogic")
+i15/UpDnCnt[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1711eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[5]~FFeftlogic")
+i15/UpDnCnt[5]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1714eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[6]~FFeftlogic")
+i15/UpDnCnt[6]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1718eft(0)/lut4(0)/lut(1)"names
+u
+i15/UpDnCnt[7]~FFeftlogic")
+i15/UpDnCnt[7]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1720eft(0)/lut4(0)/lut(1)"names
+w
+i15/RGBColor[1]~FFeftlogic"*
+i15/RGBColor[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1545eft(0)/lut4(0)/lut(1)"names
+o
+i15/npxc[1]~FFeftlogic"&
+i15/npxc[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1721eft(0)/lut4(0)/lut(1)"names
+o
+i15/bits[1]~FFeftlogic"&
+i15/bits[1]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1722eft(0)/lut4(0)/lut(1)"names
+u
+i15/bits[2]~FFeft
+arithmetic"&
+i15/bits[2]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_558/i2eft(0)/adder(1)"EFX_ADD
+o
+i15/bits[3]~FFeftlogic"&
+i15/bits[3]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1723eft(0)/lut4(0)/lut(1)"names
+o
+i15/bits[4]~FFeftlogic"&
+i15/bits[4]~FFeft(0)/ff(0)"EFX_FF")
+	LUT__1724eft(0)/lut4(0)/lut(1)"names
+u
+i15/bits[5]~FFeft
+arithmetic"&
+i15/bits[5]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_558/i5eft(0)/adder(1)"EFX_ADD
+u
+i15/bits[6]~FFeft
+arithmetic"&
+i15/bits[6]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_558/i6eft(0)/adder(1)"EFX_ADD
+u
+i15/bits[7]~FFeft
+arithmetic"&
+i15/bits[7]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_558/i7eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[1]~FFeft
+arithmetic"&
+i15/lpxc[1]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i1eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[2]~FFeft
+arithmetic"&
+i15/lpxc[2]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i2eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[3]~FFeft
+arithmetic"&
+i15/lpxc[3]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i3eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[4]~FFeft
+arithmetic"&
+i15/lpxc[4]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i4eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[5]~FFeft
+arithmetic"&
+i15/lpxc[5]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i5eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[6]~FFeft
+arithmetic"&
+i15/lpxc[6]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i6eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[7]~FFeft
+arithmetic"&
+i15/lpxc[7]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i7eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[8]~FFeft
+arithmetic"&
+i15/lpxc[8]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i8eft(0)/adder(1)"EFX_ADD
+u
+i15/lpxc[9]~FFeft
+arithmetic"&
+i15/lpxc[9]~FFeft(0)/ff(1)"EFX_FF"*
+i15/add_562/i9eft(0)/adder(1)"EFX_ADD
+x
+i15/lpxc[10]~FFeft
+arithmetic"'
+i15/lpxc[10]~FFeft(0)/ff(1)"EFX_FF"+
+i15/add_562/i10eft(0)/adder(1)"EFX_ADD
+x
+i15/lpxc[11]~FFeft
+arithmetic"'
+i15/lpxc[11]~FFeft(0)/ff(1)"EFX_FF"+
+i15/add_562/i11eft(0)/adder(1)"EFX_ADD
+x
+i15/lpxc[12]~FFeft
+arithmetic"'
+i15/lpxc[12]~FFeft(0)/ff(1)"EFX_FF"+
+i15/add_562/i12eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[2]~FFeft
+arithmetic".
+i16/blinkcounter[2]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i2eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[1]~FFeft
+arithmetic".
+i16/blinkcounter[1]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i1eft(0)/adder(1)"EFX_ADD
+@
+ledclkout~FFeftlogic"$
+ledclkout~FFeft(0)/ff(0)"EFX_FF
+„
+i16/blinkcounter[3]~FFeft
+arithmetic".
+i16/blinkcounter[3]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i3eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[4]~FFeft
+arithmetic".
+i16/blinkcounter[4]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i4eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[5]~FFeft
+arithmetic".
+i16/blinkcounter[5]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i5eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[6]~FFeft
+arithmetic".
+i16/blinkcounter[6]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i6eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[7]~FFeft
+arithmetic".
+i16/blinkcounter[7]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i7eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[8]~FFeft
+arithmetic".
+i16/blinkcounter[8]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i8eft(0)/adder(1)"EFX_ADD
+„
+i16/blinkcounter[9]~FFeft
+arithmetic".
+i16/blinkcounter[9]~FFeft(0)/ff(1)"EFX_FF")
+i16/add_13/i9eft(0)/adder(1)"EFX_ADD
+‡
+i16/blinkcounter[10]~FFeft
+arithmetic"/
+i16/blinkcounter[10]~FFeft(0)/ff(1)"EFX_FF"*
+i16/add_13/i10eft(0)/adder(1)"EFX_ADD
+‡
+i16/blinkcounter[11]~FFeft
+arithmetic"/
+i16/blinkcounter[11]~FFeft(0)/ff(1)"EFX_FF"*
+i16/add_13/i11eft(0)/adder(1)"EFX_ADD
+‡
+i16/blinkcounter[12]~FFeft
+arithmetic"/
+i16/blinkcounter[12]~FFeft(0)/ff(1)"EFX_FF"*
+i16/add_13/i12eft(0)/adder(1)"EFX_ADD
+_
+	DDBUS1~FFeftlogic"#
+VCCeft(0)/lut4(0)/lut(1)"names"!
+	DDBUS1~FFeft(0)/ff(0)"EFX_FF
+7
+DDBUS1iooutpad"!
+DDBUS1io(0)/outpad(1)"output
+@
+PLL0_CLKOUT0ioinpad"%
+PLL0_CLKOUT0io(0)/inpad(0)"input
+6
+BaudClkioinpad" 
+BaudClkio(0)/inpad(0)"input
+9
+SK6812oiooutpad""
+SK6812oio(0)/outpad(1)"output
+5
+Led1oiooutpad" 
+Led1oio(0)/outpad(1)"output
+5
+Led2oiooutpad" 
+Led2oio(0)/outpad(1)"output
+5
+Led3oiooutpad" 
+Led3oio(0)/outpad(1)"output
+5
+Led4oiooutpad" 
+Led4oio(0)/outpad(1)"output
+5
+Led5oiooutpad" 
+Led5oio(0)/outpad(1)"output
+3
+R122iooutpad"
+R122io(0)/outpad(1)"output
+6
+GNDefllogic"#
+GNDefl(0)/lut4(0)/lut(1)"names
+S
+	CLKBUF__5
+gbuf_block
+gbuf_block".
+	CLKBUF__5gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE
+S
+	CLKBUF__1
+gbuf_block
+gbuf_block".
+	CLKBUF__1gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE
+S
+	CLKBUF__3
+gbuf_block
+gbuf_block".
+	CLKBUF__3gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE
+S
+	CLKBUF__2
+gbuf_block
+gbuf_block".
+	CLKBUF__2gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE
+M
+i15/add_558/i1eft
+arithmetic"*
+i15/add_558/i1eft(0)/adder(1)"EFX_ADD
+M
+i15/add_558/i4eft
+arithmetic"*
+i15/add_558/i4eft(0)/adder(1)"EFX_ADD
+M
+i15/add_558/i3eft
+arithmetic"*
+i15/add_558/i3eft(0)/adder(1)"EFX_ADD
+B
+	LUT__1508efllogic")
+	LUT__1508efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1509efllogic")
+	LUT__1509efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1510efllogic")
+	LUT__1510efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1511efllogic")
+	LUT__1511efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1512efllogic")
+	LUT__1512efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1513efllogic")
+	LUT__1513efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1514efllogic")
+	LUT__1514efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1515efllogic")
+	LUT__1515efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1516efllogic")
+	LUT__1516efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1517efllogic")
+	LUT__1517efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1518efllogic")
+	LUT__1518efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1541efllogic")
+	LUT__1541efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1542efllogic")
+	LUT__1542efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1543efllogic")
+	LUT__1543efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1544efllogic")
+	LUT__1544efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1546efllogic")
+	LUT__1546efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1547efllogic")
+	LUT__1547efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1548efllogic")
+	LUT__1548efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1549efllogic")
+	LUT__1549efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1550efllogic")
+	LUT__1550efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1551efllogic")
+	LUT__1551efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1552efllogic")
+	LUT__1552efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1553efllogic")
+	LUT__1553efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1554efllogic")
+	LUT__1554efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1556efllogic")
+	LUT__1556efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1557efllogic")
+	LUT__1557efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1558efllogic")
+	LUT__1558efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1559efllogic")
+	LUT__1559efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1560efllogic")
+	LUT__1560efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1561efllogic")
+	LUT__1561efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1562efllogic")
+	LUT__1562efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1563efllogic")
+	LUT__1563efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1564efllogic")
+	LUT__1564efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1565efllogic")
+	LUT__1565efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1567efllogic")
+	LUT__1567efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1569efllogic")
+	LUT__1569efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1570efllogic")
+	LUT__1570efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1571efllogic")
+	LUT__1571efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1573efllogic")
+	LUT__1573efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1574efllogic")
+	LUT__1574efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1576efllogic")
+	LUT__1576efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1578efllogic")
+	LUT__1578efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1580efllogic")
+	LUT__1580efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1582efllogic")
+	LUT__1582efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1586efllogic")
+	LUT__1586efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1587efllogic")
+	LUT__1587efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1588efllogic")
+	LUT__1588efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1589efllogic")
+	LUT__1589efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1591efllogic")
+	LUT__1591efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1592efllogic")
+	LUT__1592efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1593efllogic")
+	LUT__1593efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1594efllogic")
+	LUT__1594efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1597efllogic")
+	LUT__1597efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1598efllogic")
+	LUT__1598efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1599efllogic")
+	LUT__1599efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1600efllogic")
+	LUT__1600efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1601efllogic")
+	LUT__1601efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1602efllogic")
+	LUT__1602efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1605efllogic")
+	LUT__1605efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1606efllogic")
+	LUT__1606efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1607efllogic")
+	LUT__1607efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1608efllogic")
+	LUT__1608efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1609efllogic")
+	LUT__1609efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1610efllogic")
+	LUT__1610efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1611efllogic")
+	LUT__1611efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1612efllogic")
+	LUT__1612efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1613efllogic")
+	LUT__1613efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1615efllogic")
+	LUT__1615efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1616efllogic")
+	LUT__1616efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1618efllogic")
+	LUT__1618efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1619efllogic")
+	LUT__1619efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1620efllogic")
+	LUT__1620efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1621efllogic")
+	LUT__1621efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1622efllogic")
+	LUT__1622efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1623efllogic")
+	LUT__1623efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1624efllogic")
+	LUT__1624efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1625efllogic")
+	LUT__1625efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1626efllogic")
+	LUT__1626efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1627efllogic")
+	LUT__1627efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1628efllogic")
+	LUT__1628efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1629efllogic")
+	LUT__1629efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1630efllogic")
+	LUT__1630efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1631efllogic")
+	LUT__1631efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1632efllogic")
+	LUT__1632efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1633efllogic")
+	LUT__1633efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1634efllogic")
+	LUT__1634efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1635efllogic")
+	LUT__1635efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1636efllogic")
+	LUT__1636efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1637efllogic")
+	LUT__1637efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1638efllogic")
+	LUT__1638efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1639efllogic")
+	LUT__1639efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1640efllogic")
+	LUT__1640efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1641efllogic")
+	LUT__1641efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1643efllogic")
+	LUT__1643efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1644efllogic")
+	LUT__1644efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1645efllogic")
+	LUT__1645efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1647efllogic")
+	LUT__1647efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1648efllogic")
+	LUT__1648efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1650efllogic")
+	LUT__1650efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1651efllogic")
+	LUT__1651efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1652efllogic")
+	LUT__1652efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1653efllogic")
+	LUT__1653efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1655efllogic")
+	LUT__1655efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1656efllogic")
+	LUT__1656efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1657efllogic")
+	LUT__1657efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1659efllogic")
+	LUT__1659efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1660efllogic")
+	LUT__1660efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1661efllogic")
+	LUT__1661efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1662efllogic")
+	LUT__1662efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1664efllogic")
+	LUT__1664efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1665efllogic")
+	LUT__1665efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1667efllogic")
+	LUT__1667efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1668efllogic")
+	LUT__1668efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1669efllogic")
+	LUT__1669efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1670efllogic")
+	LUT__1670efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1671efllogic")
+	LUT__1671efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1673efllogic")
+	LUT__1673efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1674efllogic")
+	LUT__1674efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1675efllogic")
+	LUT__1675efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1676efllogic")
+	LUT__1676efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1678efllogic")
+	LUT__1678efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1679efllogic")
+	LUT__1679efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1680efllogic")
+	LUT__1680efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1681efllogic")
+	LUT__1681efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1682efllogic")
+	LUT__1682efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1683efllogic")
+	LUT__1683efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1685efllogic")
+	LUT__1685efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1686efllogic")
+	LUT__1686efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1687efllogic")
+	LUT__1687efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1688efllogic")
+	LUT__1688efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1690efllogic")
+	LUT__1690efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1691efllogic")
+	LUT__1691efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1692efllogic")
+	LUT__1692efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1693efllogic")
+	LUT__1693efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1695efllogic")
+	LUT__1695efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1696efllogic")
+	LUT__1696efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1698efllogic")
+	LUT__1698efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1699efllogic")
+	LUT__1699efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1700efllogic")
+	LUT__1700efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1702efllogic")
+	LUT__1702efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1703efllogic")
+	LUT__1703efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1705efllogic")
+	LUT__1705efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1707efllogic")
+	LUT__1707efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1708efllogic")
+	LUT__1708efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1710efllogic")
+	LUT__1710efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1712efllogic")
+	LUT__1712efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1713efllogic")
+	LUT__1713efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1715efllogic")
+	LUT__1715efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1716efllogic")
+	LUT__1716efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1717efllogic")
+	LUT__1717efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1719efllogic")
+	LUT__1719efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1754efllogic")
+	LUT__1754efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1755efllogic")
+	LUT__1755efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1756efllogic")
+	LUT__1756efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1757efllogic")
+	LUT__1757efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1758efllogic")
+	LUT__1758efl(0)/lut4(0)/lut(1)"names
+B
+	LUT__1759efllogic")
+	LUT__1759efl(0)/lut4(0)/lut(1)"names
+S
+	CLKBUF__0
+gbuf_block
+gbuf_block".
+	CLKBUF__0gbuf_block(0)/gbuf(0)"
+EFX_GBUFCE

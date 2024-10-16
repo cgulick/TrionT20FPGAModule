@@ -1,0 +1,32 @@
+
+# Efinity Interface Configuration
+# Version: 2024.1.163.1.8
+# Date: 2024-09-25 12:37
+
+# Copyright (C) 2013 - 2024 Efinix Inc. All rights reserved.
+
+# [required | optional] (input|output|clkout), x, y, z, __bypass__|[~|!]<clock>, [[~|!]<pin_name>] | __vcc__ | __gnd__
+input, 0, 118, 1, __bypass__, BaudClk
+input, 0, 64, 3, __bypass__, CDB0TXDi
+input, 0, 67, 1, __bypass__, CDB1RXDo
+input, 0, 84, 3, __bypass__, CDBUS2
+input, 0, 87, 1, __bypass__, CDBUS3
+input, 0, 169, 3, __bypass__, DDBUS0
+output, 0, 167, 0, __bypass__, DDBUS1
+input, 0, 132, 1, __bypass__, DDBUS2
+input, 0, 137, 1, __bypass__, DDBUS3
+input, 160, 79, 3, __bypass__, GpioR133i
+output, 160, 27, 0, __bypass__, Led1o
+output, 160, 24, 2, __bypass__, Led2o
+output, 160, 29, 2, __bypass__, Led3o
+output, 160, 142, 0, __bypass__, Led4o
+output, 160, 17, 0, __bypass__, Led5o
+input, 0, 124, 1, __bypass__, PLL0_CLKOUT0
+input, 0, 119, 1, __bypass__, PLL0_CLKOUT1
+input, 0, 120, 1, __bypass__, PLL0_CLKOUT2
+input, 2, 243, 1, __bypass__, PllLocked
+output, 160, 107, 0, __bypass__, R122
+output, 160, 7, 0, __bypass__, SK6812o
+input, 0, 199, 3, __bypass__, Switch1
+input, 160, 14, 3, __bypass__, Switch2
+optional input, 16, 243, 1, __bypass__, SYSCLK1

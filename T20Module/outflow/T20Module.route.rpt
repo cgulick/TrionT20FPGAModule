@@ -1,0 +1,12 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2024.1.163.1.8 
+Date: Wed Sep 25 12:37:43 2024
+
+Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+ 
+Family: Trion 
+Device: T20Q100F3
+Top-level Entity Name: T20Module
+Elapsed time for routing: 0 hours 0 minutes 0 seconds
+Elapsed time for entire flow: 0 hours 0 minutes 21 seconds

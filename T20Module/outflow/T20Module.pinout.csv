@@ -1,0 +1,113 @@
+
+# Efinity Pinout Report
+# Version: 2024.1.163.1.8
+# Date: 2024-09-25 12:37
+
+# Copyright (C) 2013 - 2024 Efinix Inc. All rights reserved.
+
+# Device: T20Q100F3
+# Package status: final
+# Project: T20Module
+# Configuration mode: active (x1)
+
+Pin Number,Pin Name,Signal Name,Direction,Bank,I/O Bank Voltage,I/O Standard,Pull Type,Function
+1,GND,,Power,,,,,Ground
+2,GPIOL_41_CDI9,DDBUS0,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+3,GPIOL_40_CDI8,DDBUS1,Output,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+4,GPIOL_32_CTRL4_CDI7,DDBUS3,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCTRL
+5,GPIOL_31_CLK7_CDI6,DDBUS2,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCLK
+6,SPI_CS_N,,Input,1A_1B_1C,3.3 V,,,Chip Select
+7,GPIOL_24_CLK0,BaudClk,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCLK
+8,GPIOL_12_CDI2,CDB0TXDi,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+9,GPIOL_21_CTRL1_CDI5,CDBUS3,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCTRL
+10,GPIOL_20_CTRL0_CDI4,CDBUS2,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCTRL
+11,VCCIO1A_1B_1C,,Power,1A_1B_1C,3.3 V,,,VCCIO Power
+12,TDO,,Output,1A_1B_1C,3.3 V,,,Configuration
+13,TCK,,Input,1A_1B_1C,3.3 V,,,Configuration
+14,GPIOL_13_CDI3,CDB1RXDo,Input,1A_1B_1C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+15,VCC,,Power,,,,,1.2 V VCC Power
+16,TMS,,Input,1A_1B_1C,3.3 V,,,Configuration
+17,TDI,,Input,1A_1B_1C,3.3 V,,,Configuration
+18,GPIOL_09_CDI1,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+19,GPIOL_08_CDI0,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+20,CRESET_N,,Input,1A_1B_1C,3.3 V,,,Configuration
+21,VCCIO1A_1B_1C,,Power,1A_1B_1C,3.3 V,,,VCCIO Power
+22,GPIOL_05_CSO,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+23,GPIOL_04_CSI,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+24,GPIOL_00_SS_N,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+25,CDONE,,Bidirectional,1A_1B_1C,3.3 V,,,Configuration
+26,GPIOL_01_CCK,,Input,1A_1B_1C,3.3 V,,weak pullup,User IO/Configuration
+27,REF_RES,,Input,4B,,,,
+28,GND,,Power,,,,,Ground
+29,GPIOB_TXP01,,,4B,,,,User IO
+30,GPIOB_TXN01,,,4B,,,,User IO
+31,VCC,,Power,,,,,1.2 V VCC Power
+32,GPIOB_TXP04,,,4B,,,,User IO
+33,GPIOB_TXN04,,,4B,,,,User IO
+34,VCCIO4B,,Power,4B,,,,VCCIO Power
+35,GPIOB_TXP07,,,4B,,,,User IO
+36,GPIOB_TXN07,,,4B,,,,User IO
+37,GPIOB_TXP10,,,4B,,,,User IO
+38,GPIOB_TXN10,,,4B,,,,User IO
+39,GND,,Power,,,,,Ground
+40,GPIOB_RXP00,,,4A,,,,User IO
+41,GPIOB_RXN00,,,4A,,,,User IO
+42,VCCIO4A,,Power,4A,,,,VCCIO Power
+43,GPIOB_RXN03,,,4A,,,,User IO
+44,GPIOB_RXP03,,,4A,,,,User IO
+45,VCC,,Power,,,,,1.2 V VCC Power
+46,GPIOB_RXP06,,,4A,,,,User IO
+47,GPIOB_RXN06,,,4A,,,,User IO
+48,GPIOB_RXN09,,,4A,,,,User IO
+49,GPIOB_RXP09,,,4A,,,,User IO
+50,VCCA_BR,,Power,BR,,,,1.2 V PLL Power
+51,GPIOB_CLKP0,,,4A,,,,User IO/PLL_CLKIN
+52,GPIOB_CLKN0,,,4A,,,,User IO/PLL_CLKIN
+53,GPIOR_158_TEST_N,SK6812o,Output,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/Configuration
+54,GPIOR_157_PLLIN,,Input,3D_3E,3.3 V,,weak pullup,User IO/PLL_CLKIN
+55,GPIOR_155,Switch2,Input,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+56,GPIOR_154,Led5o,Output,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+57,GPIOR_151_CBUS0,Led2o,Output,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/Configuration
+58,GPIOR_150_CBUS1,Led1o,Output,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/Configuration
+59,GPIOR_149_CBUS2,Led3o,Output,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/Configuration
+60,VCCIO3D_3E,,Power,3D_3E,3.3 V,,,VCCIO Power
+61,GND,,Power,,,,,Ground
+62,GPIOR_133_CDI18,GpioR133i,Input,3D_3E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+63,GPIOR_132_CDI19,,Input,3D_3E,3.3 V,,weak pullup,User IO
+64,VCC,,Power,,,,,1.2 V VCC Power
+65,GPIOR_123_CLK12_CDI20,,Input,3B_3C,3.3 V,,weak pullup,User IO/GCLK
+66,GPIOR_122_CLK13_CDI21,R122,Output,3B_3C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCLK
+67,GPIOR_117_CTRL14,Led4o,Output,3B_3C,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/GCTRL
+68,GPIOR_116_CTRL15,,Input,3B_3C,3.3 V,,weak pullup,User IO/GCTRL
+69,VCCIO3B_3C,,Power,3B_3C,3.3 V,,,VCCIO Power
+70,GND,,Power,,,,,Ground
+71,GPIOR_94_CDI27,,Input,3B_3C,3.3 V,,weak pullup,User IO
+72,VCCA_TR,,Power,TR,,,,1.2 V PLL Power
+73,GPIOR_88_CDI28,,Input,3A,3.3 V,,weak pullup,User IO
+74,GPIOR_87_CDI29,,Input,3A,3.3 V,,weak pullup,User IO
+75,VCC,,Power,,,,,1.2 V VCC Power
+76,VCCIO3A,,Power,3A,3.3 V,,,VCCIO Power
+77,GPIOR_79_EXTFB1_CDI30,,Input,3A,3.3 V,,weak pullup,User IO
+78,GPIOR_78_EXTFB0_CDI31,,Input,3A,3.3 V,,weak pullup,User IO
+79,GPIOR_77_PLLIN1,,Input,3A,3.3 V,,weak pullup,User IO/PLL_CLKIN
+80,GPIOR_76_PLLIN0,,Input,3A,3.3 V,,weak pullup,User IO/PLL_CLKIN
+81,GND,,Power,,,,,Ground
+82,VCC,,Power,,,,,1.2 V VCC Power
+83,VCC,,Power,,,,,1.2 V VCC Power
+84,VCCA_TL,,Power,TL,,,,1.2 V PLL Power
+85,GPIOL_75_PLLIN1,,Input,1D_1E,3.3 V,,weak pullup,User IO/PLL_CLKIN
+86,GPIOL_74_PLLIN0,SYSCLK1,Input,1D_1E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO/PLL_CLKIN
+87,GPIOL_73_EXTFB1_CDI15,,Input,1D_1E,3.3 V,,weak pullup,User IO
+88,GPIOL_71_NSTATUS,,Input,1D_1E,3.3 V,,weak pullup,User IO/Configuration
+89,GPIOL_72_EXTFB0_CDI14,,Input,1D_1E,3.3 V,,weak pullup,User IO
+90,GND,,Power,,,,,Ground
+91,VCC,,Power,,,,,1.2 V VCC Power
+92,GPIOL_70_CBSEL0,,Input,1D_1E,3.3 V,,weak pullup,User IO
+93,GPIOL_69_CBSEL1,,Input,1D_1E,3.3 V,,weak pullup,User IO
+94,GPIOL_67_CDI13,,Input,1D_1E,3.3 V,,weak pullup,User IO
+95,GPIOL_66_CDI12,,Input,1D_1E,3.3 V,,weak pullup,User IO
+96,VCCIO1D_1E,,Power,1D_1E,3.3 V,,,VCCIO Power
+97,GND,,Power,,,,,Ground
+98,GPIOL_53_CDI10,Switch1,Input,1D_1E,3.3 V,3.3 V LVTTL / LVCMOS,,User IO
+99,GPIOL_54_CDI11,,Input,1D_1E,3.3 V,,weak pullup,User IO
+100,GPIOL_46,,Input,1D_1E,3.3 V,,weak pullup,User IO

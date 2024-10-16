@@ -1,0 +1,302 @@
+INFO     : Efinix FPGA Synthesis.
+INFO     : Version: 2024.1.163.1.8
+INFO     : Compiled: Jun 25 2024.
+INFO     : 
+INFO     : Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+
+INFO     : Reading project database "C:/Users/Chris/Documents/TrionT20Prj/T20Module/T20ModuleTopLevel.xml"
+INFO     : Analyzing Verilog file 'C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v' [VERI-1482]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(8): compiling module 'EFX_IBUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(16): compiling module 'EFX_OBUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(23): compiling module 'EFX_IO_BUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(33): compiling module 'EFX_CLKOUT' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(41): compiling module 'EFX_IREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(51): compiling module 'EFX_OREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(60): compiling module 'EFX_IOREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(75): compiling module 'EFX_IDDIO' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(87): compiling module 'EFX_ODDIO' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(99): compiling module 'EFX_GPIO_V1' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(124): compiling module 'EFX_GPIO_V2' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(149): compiling module 'EFX_GPIO_V3' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(187): compiling module 'EFX_PLL_V1' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(206): compiling module 'EFX_PLL_V2' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(232): compiling module 'EFX_PLL_V3' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(267): compiling module 'EFX_OSC_V1' [VERI-1018]
+INFO     : Reading project database "C:/Users/Chris/Documents/TrionT20Prj/T20Module/T20ModuleTopLevel.xml"
+INFO     : ***** Beginning Analysis ... *****
+INFO     : default VHDL library search path is now "C:/Efinity/2024.1/sim_models/vhdl/packages/vhdl_2008" [VHDL-1504]
+INFO     : Analyzing Verilog file 'C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v' [VERI-1482]
+INFO     : Analyzing Verilog file 'C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v' [VERI-1482]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\PowerOnReset.v' [VERI-1482]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\PowerOnReset.v(24): redeclaration of ANSI port 'oResetn' is not allowed [VERI-1372]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\SysClkDivider.v' [VERI-1482]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v' [VERI-1482]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(21): redeclaration of ANSI port 'ledout1' is not allowed [VERI-1372]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(22): redeclaration of ANSI port 'ledout2' is not allowed [VERI-1372]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(23): redeclaration of ANSI port 'ledout3' is not allowed [VERI-1372]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(24): redeclaration of ANSI port 'ledout4' is not allowed [VERI-1372]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(25): redeclaration of ANSI port 'ledout5' is not allowed [VERI-1372]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(26): redeclaration of ANSI port 'ledclkout' is not allowed [VERI-1372]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v' [VERI-1482]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(73): undeclared symbol 'OneKHzClk', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(73): undeclared symbol 'TenMHzClk', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(73): undeclared symbol 'TwelveMHzClk', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(81): undeclared symbol 'ledclkout', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(94): undeclared symbol 'ledout1', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(95): undeclared symbol 'ledout2', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(96): undeclared symbol 'ledout3', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(97): undeclared symbol 'ledout4', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(98): undeclared symbol 'ledout5', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(111): undeclared symbol 'o_Rx_DV', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(112): undeclared symbol 'o_Rx_Byte', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(123): undeclared symbol 'i_Tx_DV', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(124): undeclared symbol 'o_Tx_Byte', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(125): undeclared symbol 'o_Tx_Active', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(126): undeclared symbol 'o_Tx_Serial', assumed default net type 'wire' [VERI-2561]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(127): undeclared symbol 'o_Tx_Done', assumed default net type 'wire' [VERI-2561]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v' [VERI-1482]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(45): data object 'RGBColor' is already declared [VERI-2170]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(30): previous declaration of 'RGBColor' is from here [VERI-1967]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(45): second declaration of 'RGBColor' is ignored [VERI-1329]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v' [VERI-1482]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(23): parameter 's_IDLE' becomes localparam in 'uart_rx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(24): parameter 's_RX_START_BIT' becomes localparam in 'uart_rx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(25): parameter 's_RX_DATA_BITS' becomes localparam in 'uart_rx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(26): parameter 's_RX_STOP_BIT' becomes localparam in 'uart_rx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(27): parameter 's_CLEANUP' becomes localparam in 'uart_rx' with formal parameter declaration list [VERI-1199]
+INFO     : Analyzing Verilog file 'C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v' [VERI-1482]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(25): parameter 's_IDLE' becomes localparam in 'uart_tx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(26): parameter 's_TX_START_BIT' becomes localparam in 'uart_tx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(27): parameter 's_TX_DATA_BITS' becomes localparam in 'uart_tx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(28): parameter 's_TX_STOP_BIT' becomes localparam in 'uart_tx' with formal parameter declaration list [VERI-1199]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(29): parameter 's_CLEANUP' becomes localparam in 'uart_tx' with formal parameter declaration list [VERI-1199]
+INFO     : Analysis took 0.0129428 seconds.
+INFO     : 	Analysis took 0.015625 seconds (approximately) in total CPU time.
+INFO     : Analysis virtual memory usage: begin = 55.424 MB, end = 55.764 MB, delta = 0.34 MB
+INFO     : 	Analysis peak virtual memory usage = 55.772 MB
+INFO     : Analysis resident set memory usage: begin = 58.332 MB, end = 59.364 MB, delta = 1.032 MB
+INFO     : 	Analysis peak resident set memory usage = 59.364 MB
+INFO     : ***** Ending Analysis ... *****
+INFO     : ***** Beginning Elaboration ... *****
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(8): compiling module 'EFX_ADD' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(21): compiling module 'EFX_FF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(38): compiling module 'EFX_COMB4' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(48): compiling module 'EFX_GBUFCE' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(57): compiling module 'EFX_LUT4' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(65): compiling module 'EFX_MULT' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(100): compiling module 'EFX_DSP48' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(156): compiling module 'EFX_DSP24' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(209): compiling module 'EFX_DSP12' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(262): compiling module 'EFX_RAM_4K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(322): compiling module 'EFX_RAM_5K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(394): compiling module 'EFX_DPRAM_5K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(499): compiling module 'RAMB5' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(561): compiling module 'EFX_RAM_10K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(653): compiling module 'EFX_RAM10' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(754): compiling module 'EFX_DPRAM10' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(884): compiling module 'EFX_SRL8' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(8): compiling module 'EFX_IBUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(16): compiling module 'EFX_OBUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(23): compiling module 'EFX_IO_BUF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(33): compiling module 'EFX_CLKOUT' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(41): compiling module 'EFX_IREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(51): compiling module 'EFX_OREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(60): compiling module 'EFX_IOREG' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(75): compiling module 'EFX_IDDIO' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(87): compiling module 'EFX_ODDIO' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(99): compiling module 'EFX_GPIO_V1' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(124): compiling module 'EFX_GPIO_V2' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(149): compiling module 'EFX_GPIO_V3' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(187): compiling module 'EFX_PLL_V1' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(206): compiling module 'EFX_PLL_V2' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(232): compiling module 'EFX_PLL_V3' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(267): compiling module 'EFX_OSC_V1' [VERI-1018]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\PowerOnReset.v(2): compiling module 'PwrOnreset' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\PowerOnReset.v(20): expression size 32 truncated to fit in target size 10 [VERI-1209]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\SysClkDivider.v(4): compiling module 'clock_divider' [VERI-1018]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(2): compiling module 'ledblinker' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v(18): expression size 17 truncated to fit in target size 16 [VERI-1209]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(8): compiling module 'T20ModuleTopLevel' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(73): module instantiation should have an instance name [VERI-1229]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(78): module instantiation should have an instance name [VERI-1229]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(2): compiling module 'Sk6812Led' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(30): 'RGBColor' was previously declared with a different range [VERI-1136]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(91): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(96): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(101): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(109): expression size 32 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(114): expression size 32 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(119): expression size 32 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(130): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(159): expression size 32 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(181): expression size 3 truncated to fit in target size 2 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(208): expression size 3 truncated to fit in target size 2 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(211): expression size 4 truncated to fit in target size 3 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(216): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(229): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(242): expression size 14 truncated to fit in target size 13 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v(19): net 'LedArrayTxd[24]' does not have a driver [VDB-1002]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(92): module instantiation should have an instance name [VERI-1229]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(14): compiling module 'uart_rx' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(80): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(91): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(102): expression size 4 truncated to fit in target size 3 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v(120): expression size 9 truncated to fit in target size 8 [VERI-1209]
+INFO     : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(14): compiling module 'uart_tx' [VERI-1018]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(68): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(86): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(96): expression size 4 truncated to fit in target size 3 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v(116): expression size 9 truncated to fit in target size 8 [VERI-1209]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(124): net 'o_Tx_Byte[7]' does not have a driver [VDB-1002]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(123): net 'i_Tx_DV' does not have a driver [VDB-1002]
+INFO     : Elaboration took 0.0278565 seconds.
+INFO     : 	Elaboration took 0.03125 seconds (approximately) in total CPU time.
+INFO     : Elaboration virtual memory usage: begin = 55.764 MB, end = 59.42 MB, delta = 3.656 MB
+INFO     : 	Elaboration peak virtual memory usage = 59.42 MB
+INFO     : Elaboration resident set memory usage: begin = 59.376 MB, end = 63.988 MB, delta = 4.612 MB
+INFO     : 	Elaboration peak resident set memory usage = 63.988 MB
+INFO     : ***** Ending Elaboration ... *****
+WARNING  : Top module not specified. Using module 'T20ModuleTopLevel' as top module for the design. [EFX-0008]
+INFO     : ... Setting Synthesis Option: mode=speed
+INFO     : ***** Beginning Reading Mapping Library ... *****
+INFO     : Analyzing Verilog file 'C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v' [VERI-1482]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(8): compiling module 'EFX_ADD' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(21): compiling module 'EFX_FF' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(38): compiling module 'EFX_COMB4' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(48): compiling module 'EFX_GBUFCE' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(57): compiling module 'EFX_LUT4' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(65): compiling module 'EFX_MULT' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(100): compiling module 'EFX_DSP48' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(156): compiling module 'EFX_DSP24' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(209): compiling module 'EFX_DSP12' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(262): compiling module 'EFX_RAM_4K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(322): compiling module 'EFX_RAM_5K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(394): compiling module 'EFX_DPRAM_5K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(499): compiling module 'RAMB5' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(561): compiling module 'EFX_RAM_10K' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(653): compiling module 'EFX_RAM10' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(754): compiling module 'EFX_DPRAM10' [VERI-1018]
+INFO     : C:/Efinity/2024.1/sim_models/maplib/efinix_maplib.v(884): compiling module 'EFX_SRL8' [VERI-1018]
+INFO     : Reading Mapping Library took 0.0350798 seconds.
+INFO     : 	Reading Mapping Library took 0.03125 seconds (approximately) in total CPU time.
+INFO     : Reading Mapping Library virtual memory usage: begin = 59.88 MB, end = 59.88 MB, delta = 0 MB
+INFO     : 	Reading Mapping Library peak virtual memory usage = 59.88 MB
+INFO     : Reading Mapping Library resident set memory usage: begin = 64.636 MB, end = 64.648 MB, delta = 0.012 MB
+INFO     : 	Reading Mapping Library peak resident set memory usage = 64.648 MB
+INFO     : ***** Ending Reading Mapping Library ... *****
+INFO     : ... Pre-synthesis checks begin
+WARNING  : Removing redundant signal : rgbudcnt[8]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[7]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[6]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[5]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[4]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[3]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[2]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[1]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : rgbudcnt[0]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:26) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[7]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[6]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[5]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[4]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[3]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[2]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[1]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : colorcnt[0]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:27) [EFX-0200]
+WARNING  : Removing redundant signal : ByteStart[7]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:31) [EFX-0200]
+WARNING  : Removing redundant signal : ByteStart[6]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:31) [EFX-0200]
+WARNING  : Removing redundant signal : ByteStart[5]. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v:31) [EFX-0200]
+WARNING  : (The above message was generated too many times, subsequent similar messages will be muted.) [EFX-0200]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[7]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[6]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[5]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[4]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[3]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[2]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[1]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'o_Tx_Byte[0]'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:124) [EFX-0201]
+WARNING  : Re-wiring to GND non-driven net 'i_Tx_DV'. (C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v:123) [EFX-0201]
+INFO     : ... Pre-synthesis checks end (Real time : 0s)
+INFO     : ... NameSpace init begin
+INFO     : ... NameSpace init end (Real time : 0s)
+INFO     : ... Mapping design "T20ModuleTopLevel"
+INFO     : ... Hierarchical pre-synthesis "PwrOnreset" begin
+INFO     : ... Hierarchical pre-synthesis "PwrOnreset" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "clock_divider" begin
+INFO     : ... Hierarchical pre-synthesis "clock_divider" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "Sk6812Led" begin
+INFO     : ... Hierarchical pre-synthesis "Sk6812Led" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "ledblinker" begin
+INFO     : ... Hierarchical pre-synthesis "ledblinker" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "uart_rx" begin
+INFO     : ... Hierarchical pre-synthesis "uart_rx" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "uart_tx" begin
+INFO     : ... Hierarchical pre-synthesis "uart_tx" end (Real time : 0s)
+INFO     : ... Hierarchical pre-synthesis "T20ModuleTopLevel" begin
+INFO     : ... Clock Enable Synthesis Performed on 44 flops.
+INFO     : ... Hierarchical pre-synthesis "T20ModuleTopLevel" end (Real time : 0s)
+INFO     : ... Flat optimizations begin
+INFO     : ... Flat optimizations end (Real time : 0s)
+INFO     : ... Flat synthesis begin
+INFO     : ... Flat synthesis end (Real time : 0s)
+INFO     : ... Flat optimizations begin
+INFO     : ... Flat optimizations end (Real time : 0s)
+INFO     : ... Check and break combinational loops begin
+INFO     : ... Check and break combinational loops end (Real time : 0s)
+INFO     : ... Sequential Optimization begin
+INFO     : ... Clock Network 'PLL0_CLKOUT0' with 132 loads will be considered for sequential optimization.
+INFO     : ... Clock Network 'ledclkout' with 63 loads will be considered for sequential optimization.
+INFO     : ... Clock Network 'TwelveMHzClk' with 35 loads will be considered for sequential optimization.
+INFO     : ... Clock Network 'BaudClk' with 32 loads will be considered for sequential optimization.
+INFO     : ... Clock Network 'OneKHzClk' with 16 loads will be considered for sequential optimization.
+INFO     : ... Clock Network 'PLL0_CLKOUT2' with 10 loads will be considered for sequential optimization.
+INFO     : ... Sequential Optimization deduced 292 equivalent points.
+INFO     : ... Sequential Optimization end (Real time : 12s)
+INFO     : ... Setup for logic synthesis begin
+INFO     : ... Setup for logic synthesis end (Real time : 0s)
+INFO     : ... LUT mapping begin
+INFO     : ... LS, strategy: 3, nd: 257, ed: 890, lv: 4, pw: 586.08
+INFO     : ... LUT mapping end (Real time : 1s)
+INFO     : ... Post-synthesis Verific netlist creation begin
+INFO     : ... Post-synthesis Verific netlist creation end (Real time : 0s)
+INFO     : ... Postmap Retiming Optimization begin
+INFO     : ... Clock Network 'PLL0_CLKOUT0' with 97 loads will be considered for retiming optimization.
+INFO     : ... Clock Network 'ledclkout' with 61 loads will be considered for retiming optimization.
+INFO     : ... Clock Network 'TwelveMHzClk' with 28 loads will be considered for retiming optimization.
+INFO     : ... Clock Network 'BaudClk' with 17 loads will be considered for retiming optimization.
+INFO     : ... Clock Network 'OneKHzClk' with 16 loads will be considered for retiming optimization.
+INFO     : ... Clock Network 'PLL0_CLKOUT2' with 10 loads will be considered for retiming optimization.
+INFO     : ... Performed 4 retime moves.
+INFO     : ... Postmap Retiming Optimization end (Real time : 19s)
+INFO     : ... Post-synthesis Verific netlist unification/params processing begin
+INFO     : ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(10): Input/inout port GpioR133i is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(11): Input/inout port CDB0TXDi is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(12): Input/inout port CDB1RXDo is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(13): Input/inout port CDBUS2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(14): Input/inout port CDBUS3 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(16): Input/inout port DDBUS0 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(18): Input/inout port DDBUS2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(19): Input/inout port DDBUS3 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(21): Input/inout port SYSCLK1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(23): Input/inout port Switch1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(24): Input/inout port Switch2 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(27): Input/inout port PllLocked is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(29): Input/inout port PLL0_CLKOUT1 is unconnected and will be removed. [VDB-8003]
+WARNING  : C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v(30): Input/inout port PLL0_CLKOUT2 is unconnected and will be removed. [VDB-8003]
+INFO     : Found 14 warnings in the post-synthesis netlist.
+INFO     : VDB Netlist Checker took 0.0118246 seconds.
+INFO     : 	VDB Netlist Checker took 0 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 78.508 MB, end = 78.508 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak virtual memory usage = 99.372 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 85.808 MB, end = 85.864 MB, delta = 0.056 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 102.692 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Writing netlist 'T20ModuleTopLevel' to Verilog file 'C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.map.v' [VDB-1030]
+INFO     : Resource Summary 
+INFO     : =============================== 
+INFO     : EFX_ADD         : 	62
+INFO     : EFX_LUT4        : 	201
+INFO     : EFX_FF          : 	137
+INFO     : EFX_GBUFCE      : 	5
+INFO     : =============================== 

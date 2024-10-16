@@ -1,0 +1,12 @@
+sep=\t
+Module Resource Usage Distribution Estimates
+Generated at: Sep 25, 2024 12:36:41
+
+Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module	         FFs	        ADDs	        LUTs	      RAMs	 DSP/MULTs
+T20ModuleTopLevel:T20ModuleTopLevel  	     137(0)	      62(0)	     201(0)	     0(0)	     0(0)	
+ +i14:clock_divider                  	     34(34)	     31(31)	     11(11)	     0(0)	     0(0)	
+ +i15:Sk6812Led                      	     89(89)	     19(19)	   185(185)	     0(0)	     0(0)	
+ +i16:ledblinker                     	     13(13)	     12(12)	       5(5)	     0(0)	     0(0)	
+ +UartTx1:uart_tx                    	       1(1)	       0(0)	       0(0)	     0(0)	     0(0)	

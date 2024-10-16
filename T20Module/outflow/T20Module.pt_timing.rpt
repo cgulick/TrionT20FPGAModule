@@ -1,0 +1,60 @@
+
+Efinity Interface Designer Timing Report
+Version: 2024.1.163.1.8
+Date: 2024-09-25 12:37
+
+Copyright (C) 2013 - 2024 Efinix Inc. All rights reserved.
+
+Device: T20Q100F3
+Project: T20Module
+Timing Model: C4 (final)
+
+---------- 1. PLL Timing Report (begin) ----------
+
++--------------+----------+-----------------+--------------------------+---------+-------------------+---------------------------------+---------------------------------+
+| PLL Instance | Resource | Reference Clock | Core Clock Reference Pin | FB Mode | Core Feedback Pin | PLL Compensation Delay Max (ns) | PLL Compensation Delay Min (ns) |
++--------------+----------+-----------------+--------------------------+---------+-------------------+---------------------------------+---------------------------------+
+|     PLL0     | PLL_TL0  |     external    |                          |  local  |                   |              0.000              |              0.000              |
++--------------+----------+-----------------+--------------------------+---------+-------------------+---------------------------------+---------------------------------+
+
++--------------+-------------+-----------------------+
+|    Clock     | Period (ns) | Phase Shift (degrees) |
++--------------+-------------+-----------------------+
+| PLL0_CLKOUT0 |    5.0000   |           0           |
+| PLL0_CLKOUT1 |   10.0000   |           0           |
+| PLL0_CLKOUT2 |   100.0000  |           0           |
++--------------+-------------+-----------------------+
+
+---------- PLL Timing Report (end) ----------
+
+---------- 2. GPIO Timing Report (begin) ----------
+
+Non-registered GPIO Configuration:
+===================================
+
++---------------+-----------+-------------+----------+----------+
+| Instance Name |  Pin Name |  Parameter  | Max (ns) | Min (ns) |
++---------------+-----------+-------------+----------+----------+
+|    BaudClk    |  BaudClk  | GPIO_CLK_IN |  1.275   |  0.637   |
+|    CDB0TXDi   |  CDB0TXDi |   GPIO_IN   |  1.396   |  0.698   |
+|    CDB1RXDo   |  CDB1RXDo |   GPIO_IN   |  1.396   |  0.698   |
+|     CDBUS2    |   CDBUS2  |   GPIO_IN   |  1.396   |  0.698   |
+|     CDBUS3    |   CDBUS3  |   GPIO_IN   |  1.396   |  0.698   |
+|     DDBUS0    |   DDBUS0  |   GPIO_IN   |  1.396   |  0.698   |
+|     DDBUS2    |   DDBUS2  |   GPIO_IN   |  1.396   |  0.698   |
+|     DDBUS3    |   DDBUS3  |   GPIO_IN   |  1.396   |  0.698   |
+|   GpioR133i   | GpioR133i |   GPIO_IN   |  1.396   |  0.698   |
+|    Switch1    |  Switch1  |   GPIO_IN   |  1.396   |  0.698   |
+|    Switch2    |  Switch2  |   GPIO_IN   |  1.396   |  0.698   |
+|    SYSCLK1    |  SYSCLK1  |   GPIO_IN   |  1.909   |  0.954   |
+|     DDBUS1    |   DDBUS1  |   GPIO_OUT  |  3.659   |  1.829   |
+|     Led1o     |   Led1o   |   GPIO_OUT  |  3.829   |  1.915   |
+|     Led2o     |   Led2o   |   GPIO_OUT  |  3.829   |  1.915   |
+|     Led3o     |   Led3o   |   GPIO_OUT  |  3.829   |  1.915   |
+|     Led4o     |   Led4o   |   GPIO_OUT  |  3.829   |  1.915   |
+|     Led5o     |   Led5o   |   GPIO_OUT  |  3.566   |  1.783   |
+|      R122     |    R122   |   GPIO_OUT  |  3.829   |  1.915   |
+|    SK6812o    |  SK6812o  |   GPIO_OUT  |  3.829   |  1.915   |
++---------------+-----------+-------------+----------+----------+
+
+---------- GPIO Timing Report (end) ----------

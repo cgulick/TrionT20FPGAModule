@@ -1,0 +1,213 @@
+Efinity Synthesis report for project T20Module
+Version: 2024.1.163.1.8
+Generated at: Sep 25, 2024 12:36:41
+Copyright (C) 2013 - 2024  All rights reserved.
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+Top-level Entity Name : T20ModuleTopLevel
+
+### ### File List (begin) ### ### ###
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\PowerOnReset.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\SysClkDivider.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\ledblinker.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\T20ModuleTopLevel.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\S6812RGB.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartRx.v
+C:\Users\Chris\Documents\TrionT20Prj\T20Module\UartTx.v
+### ### File List (end) ### ### ###
+
+
+### ### EFX_FF CE enables (begin) ### ### ###
+Total number of enable signals: 12
+Total number of FFs with enable signals: 65
+CE signal <i14/equal_4/n63>, number of controlling flip flops: 1
+CE signal <i14/equal_13/n35>, number of controlling flip flops: 1
+CE signal <i15/equal_88/n5>, number of controlling flip flops: 24
+CE signal <i15/equal_90/n5>, number of controlling flip flops: 8
+CE signal <ceg_net49>, number of controlling flip flops: 1
+CE signal <i15/n1544>, number of controlling flip flops: 2
+CE signal <i15/state[2]>, number of controlling flip flops: 2
+CE signal <ceg_net30>, number of controlling flip flops: 3
+CE signal <i15/equal_194/n5>, number of controlling flip flops: 8
+CE signal <i15/equal_201/n5>, number of controlling flip flops: 1
+CE signal <i15/equal_208/n5>, number of controlling flip flops: 13
+CE signal <ceg_net13>, number of controlling flip flops: 1
+### ### EFX_FF CE enables (end) ### ### ###
+
+### ### EFX_FF SR set/reset (begin) ### ### ###
+Total number of set/reset signals: 3
+Total number of FFs with set/reset signals: 35
+SR signal <i14/equal_4/n63>, number of controlling flip flops: 32
+SR signal <i15/n1253>, number of controlling flip flops: 2
+SR signal <i15/n1551>, number of controlling flip flops: 1
+### ### EFX_FF SR set/reset (end) ### ### ###
+
+### ### Sequential Elements Trimming Report (begin) ### ### ### 
+FF Output: i15/Direction[1](=0)
+FF Output: UartTx1/r_Tx_Data[0](=0)
+FF Output: UartTx1/r_Tx_Data[1](=0)
+FF Output: UartTx1/r_Tx_Data[2](=0)
+FF Output: UartTx1/r_Tx_Data[3](=0)
+FF Output: UartTx1/r_Tx_Data[4](=0)
+FF Output: UartTx1/r_Tx_Data[5](=0)
+FF Output: UartTx1/r_Tx_Data[6](=0)
+FF Output: UartTx1/r_Tx_Data[7](=0)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_5(unreachable)
+FF instance: PowerOnReset/por_counter[4]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[5]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[6]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[7]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[8]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[9]~FF(unreachable)
+FF instance: TenMHzClk~FF(unreachable)
+FF instance: OneMHzClk~FF(unreachable)
+FF instance: i14/counter_value2[1]~FF(unreachable)
+FF instance: i14/counter_value2[2]~FF(unreachable)
+FF instance: i14/counter_value2[3]~FF(unreachable)
+FF instance: i14/counter_value2[4]~FF(unreachable)
+FF instance: i14/counter_value2[5]~FF(unreachable)
+FF instance: i14/counter_value2[6]~FF(unreachable)
+FF instance: i14/counter_value2[7]~FF(unreachable)
+FF instance: i14/counter_value2[8]~FF(unreachable)
+FF instance: i14/counter_value2[9]~FF(unreachable)
+FF instance: i14/counter_value2[10]~FF(unreachable)
+FF instance: i14/counter_value2[11]~FF(unreachable)
+FF instance: i14/counter_value2[12]~FF(unreachable)
+FF instance: i14/counter_value2[13]~FF(unreachable)
+FF instance: i14/counter_value2[14]~FF(unreachable)
+FF instance: i14/counter_value2[15]~FF(unreachable)
+FF instance: i14/counter_value2[16]~FF(unreachable)
+FF instance: i14/counter_value2[17]~FF(unreachable)
+FF instance: i14/counter_value2[18]~FF(unreachable)
+FF instance: i14/counter_value2[19]~FF(unreachable)
+FF instance: i14/counter_value2[20]~FF(unreachable)
+FF instance: i14/counter_value2[21]~FF(unreachable)
+FF instance: i14/counter_value2[22]~FF(unreachable)
+FF instance: i14/counter_value2[23]~FF(unreachable)
+FF instance: i14/counter_value2[24]~FF(unreachable)
+FF instance: i14/counter_value2[25]~FF(unreachable)
+FF instance: i14/counter_value2[26]~FF(unreachable)
+FF instance: i14/counter_value2[27]~FF(unreachable)
+FF instance: i14/counter_value2[28]~FF(unreachable)
+FF instance: i14/counter_value2[29]~FF(unreachable)
+FF instance: i14/counter_value2[30]~FF(unreachable)
+FF instance: i14/counter_value2[31]~FF(unreachable)
+FF instance: i14/counter_value3[2]~FF(unreachable)
+FF instance: i14/counter_value3[3]~FF(unreachable)
+FF instance: i14/counter_value3[4]~FF(unreachable)
+FF instance: i14/counter_value3[5]~FF(unreachable)
+FF instance: i14/counter_value3[6]~FF(unreachable)
+FF instance: i14/counter_value3[7]~FF(unreachable)
+FF instance: i14/counter_value3[8]~FF(unreachable)
+FF instance: i14/counter_value3[9]~FF(unreachable)
+FF instance: i14/counter_value3[10]~FF(unreachable)
+FF instance: i14/counter_value3[11]~FF(unreachable)
+FF instance: i14/counter_value3[12]~FF(unreachable)
+FF instance: i14/counter_value3[13]~FF(unreachable)
+FF instance: i14/counter_value3[14]~FF(unreachable)
+FF instance: i14/counter_value3[15]~FF(unreachable)
+FF instance: i14/counter_value3[16]~FF(unreachable)
+FF instance: i14/counter_value3[17]~FF(unreachable)
+FF instance: i14/counter_value3[18]~FF(unreachable)
+FF instance: i14/counter_value3[19]~FF(unreachable)
+FF instance: i14/counter_value3[20]~FF(unreachable)
+FF instance: i14/counter_value3[21]~FF(unreachable)
+FF instance: i14/counter_value3[22]~FF(unreachable)
+FF instance: i14/counter_value3[23]~FF(unreachable)
+FF instance: i14/counter_value3[24]~FF(unreachable)
+FF instance: i14/counter_value3[25]~FF(unreachable)
+FF instance: i14/counter_value3[26]~FF(unreachable)
+FF instance: i14/counter_value3[27]~FF(unreachable)
+FF instance: i14/counter_value3[28]~FF(unreachable)
+FF instance: i14/counter_value3[29]~FF(unreachable)
+FF instance: i14/counter_value3[30]~FF(unreachable)
+FF instance: i14/counter_value3[31]~FF(unreachable)
+FF instance: i16/blinkcounter[13]~FF(unreachable)
+FF instance: i16/blinkcounter[14]~FF(unreachable)
+FF instance: i16/blinkcounter[15]~FF(unreachable)
+FF instance: UartRx1/r_Rx_Data~FF(unreachable)
+FF instance: UartRx1/r_SM_Main[2]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[0]~FF(unreachable)
+FF instance: UartRx1/r_Bit_Index[0]~FF(unreachable)
+FF instance: UartRx1/r_SM_Main[1]~FF(unreachable)
+FF instance: UartRx1/r_SM_Main[0]~FF(unreachable)
+FF instance: UartRx1/r_Rx_Data_R~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[1]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[2]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[3]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[4]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[5]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[6]~FF(unreachable)
+FF instance: UartRx1/r_Clock_Count[7]~FF(unreachable)
+FF instance: UartRx1/r_Bit_Index[1]~FF(unreachable)
+FF instance: UartRx1/r_Bit_Index[2]~FF(unreachable)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_4(unreachable)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_3(unreachable)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_2(unreachable)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_0_frt_1(unreachable)
+FF instance: PowerOnReset/por_counter[0]~FF_frt_0(unreachable)
+### ### Sequential Elements Trimming Report (end) ### ### ### 
+
+### ### Module Resource Usage Distribution Estimates (begin) ### ###
+
+**Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module                                        FFs        ADDs        LUTs      RAMs DSP/MULTs
+-------------------------------------         ---        ----        ----      ---- ---------
+T20ModuleTopLevel:T20ModuleTopLevel        137(0)       62(0)      201(0)      0(0)      0(0)
+ +i14:clock_divider                        34(34)      31(31)      11(11)      0(0)      0(0)
+ +i15:Sk6812Led                            89(89)      19(19)    185(185)      0(0)      0(0)
+ +i16:ledblinker                           13(13)      12(12)        5(5)      0(0)      0(0)
+ +UartTx1:uart_tx                            1(1)        0(0)        0(0)      0(0)      0(0)
+
+### ### Module Resource Usage Distribution Estimates (end) ### ###
+
+
+### ### Clock Load Distribution Report (begin) ### ###
+
+        Clock     Flip-Flops   Memory Ports    Multipliers
+        -----     ----------   ------------    -----------
+ PLL0_CLKOUT0             34              0              0
+    ledclkout             61              0              0
+ TwelveMHzClk             28              0              0
+    OneKHzClk             13              0              0
+      BaudClk              1              0              0
+
+### ### Clock Load Distribution Report (end) ### ###
+
+### ### EFX Flow Options (begin) ### ### ###
+
+family : Trion
+device : T20Q100F3
+project : T20Module
+project-xml : C:/Users/Chris/Documents/TrionT20Prj/T20Module/T20ModuleTopLevel.xml
+root : T20ModuleTopLevel
+I,include : C:/Users/Chris/Documents/TrionT20Prj/T20Module
+output-dir : C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow
+work-dir : C:/Users/Chris/Documents/TrionT20Prj/T20Module/work_syn
+write-efx-verilog : C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.map.v
+binary-db : C:/Users/Chris/Documents/TrionT20Prj/T20Module/outflow/T20Module.vdb
+insert-ios : 0
+max-carry-cascade : 240
+max_mult : -1
+max_ram : -1
+mode : speed
+veri_options : verilog_mode=verilog_2k,vhdl_mode=vhdl_2008
+
+### ### EFX Flow Options (end) ### ### ###
+
+### ### Resource Summary (begin) ### ### ### 
+INPUT  PORTS    : 	16
+OUTPUT PORTS    : 	8
+
+EFX_ADD         : 	62
+EFX_LUT4        : 	201
+   1-2  Inputs  : 	35
+   3    Inputs  : 	39
+   4    Inputs  : 	127
+EFX_FF          : 	137
+EFX_GBUFCE      : 	5
+### ### Resource Summary (end) ### ### ###
+
+Plain synthesis (without verilog dump and post-map checks) time : 32s
+Elapsed synthesis time : 33s
